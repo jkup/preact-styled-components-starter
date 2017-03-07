@@ -17,11 +17,11 @@ const Wrapper = styled.section`
   background: papayawhip;
 `;
 
-render((
-    <div>
-      <Wrapper>
-        <Title>Hello, world!</Title>
-        <button onClick={ e => alert('hi!') }>Click Me</button>
-      </Wrapper>
-    </div>
-), document.body)
+export default () => (
+  <div>
+    <Wrapper>
+      <Title>Hello, world!</Title>
+      <button onClick={ e => alert('hi!') }>Click Me</button>
+    </Wrapper>
+  </div>
+)

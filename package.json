@@ -2,10 +2,11 @@
   "name": "editor",
   "version": "0.0.1",
   "description": "demo project to learn preact, styled components, now, codemirror and prettier",
-  "main": "src/app.js",
+  "main": "pages/index.js",
   "scripts": {
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
@@ -33,6 +34,7 @@
     "webpack": "^2.2.1"
   },
   "dependencies": {
+    "next": "^1.2.3",
     "preact": "^7.2.0",
     "preact-compat": "^3.13.1",
     "styled-components": "^1.4.4"
