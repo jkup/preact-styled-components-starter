@@ -19,9 +19,9 @@ const Wrapper = styled.section`
 
 render((
     <div>
-      <wrapper>
-        <title>Hello, world!</title>
+      <Wrapper>
+        <Title>Hello, world!</Title>
         <button onClick={ e => alert('hi!') }>Click Me</button>
-      </wrapper>
+      </Wrapper>
     </div>
 ), document.body)
