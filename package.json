@@ -2,7 +2,7 @@
   "name": "editor",
   "version": "0.0.1",
   "description": "demo project to learn preact, styled components, now, codemirror and prettier",
-  "main": "src/index.js",
+  "main": "src/app.js",
   "scripts": {
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
