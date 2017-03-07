@@ -33,6 +33,7 @@
     "webpack": "^2.2.1"
   },
   "dependencies": {
-    "preact": "^7.2.0"
+    "preact": "^7.2.0",
+    "styled-components": "^1.4.4"
   }
 }
