@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jkup/editor/issues"
   },
-  "homepage": "https://github.com/jkup/editor#readme"
+  "homepage": "https://github.com/jkup/editor#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
 }
