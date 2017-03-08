@@ -1,5 +1,5 @@
 {
-  "name": "editor",
+  "name": "preact-styled-components-starter",
   "version": "0.0.1",
   "description": "demo project to learn preact, styled components, now, codemirror and prettier",
   "main": "pages/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkup/editor.git"
+    "url": "git+https://github.com/jkup/preact-styled-components-starter.git"
   },
   "keywords": [
     "preact",
@@ -23,9 +23,9 @@
   "author": "Jon Kuperman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jkup/editor/issues"
+    "url": "https://github.com/jkup/preact-styled-components-starter/issues"
   },
-  "homepage": "https://github.com/jkup/editor#readme",
+  "homepage": "https://github.com/jkup/preact-styled-components-starter#readme",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-loader": "^6.4.0",

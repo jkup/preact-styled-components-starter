@@ -29,9 +29,9 @@ const Button = styled.button`
 export default () => (
   <div>
     <Wrapper>
-      <Title>Node.js Tutorials</Title>
-      <Content>Learn node.js quickly with these free JavaScript and Node.js tutorials. Our courses cover Node.js, JavaScript and Web Performance!</Content>
-      <Button onClick={ e => console.log('hi!') }>Enroll Now</Button>
+      <Title>Preact-Styled-Components-Zeit Starter</Title>
+      <Content>This starter kit lets you get started quickly with a Preact / Styled Components app that deploys to Now.sh.</Content>
+      <Button onClick={ e => console.log('hi!') }>Click Me!</Button>
     </Wrapper>
   </div>
 )
